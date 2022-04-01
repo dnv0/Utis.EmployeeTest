@@ -1,0 +1,12 @@
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\bin\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.deps.json
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\bin\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.dll
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\bin\Debug\net5.0\ref\Utis.EmployeeTest.GrpcClientProto.dll
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\bin\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.pdb
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.csproj.AssemblyReference.cache
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.AssemblyInfoInputs.cache
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.AssemblyInfo.cs
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.csproj.CoreCompileInputs.cache
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.dll
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\ref\Utis.EmployeeTest.GrpcClientProto.dll
+C:\Users\YouTh\source\repos\Utis.EmployeeTest\Utis.EmployeeTest.GrpcClientProto\obj\Debug\net5.0\Utis.EmployeeTest.GrpcClientProto.pdb

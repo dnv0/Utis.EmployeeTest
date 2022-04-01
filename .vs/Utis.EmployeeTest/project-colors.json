@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1121831-ddb1-454c-bc60-353c4de4be2a": {
+      "ProjectGuid": "f1121831-ddb1-454c-bc60-353c4de4be2a",
+      "DisplayName": "Utis.EmployeeTest.Client",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "42ef4114-dc46-4b68-9877-c7d70f75a775": {
+      "ProjectGuid": "42ef4114-dc46-4b68-9877-c7d70f75a775",
+      "DisplayName": "Utis.EmployeeTest.WorkerAPI",
+      "ColorIndex": 1
+    },
+    "af88bd13-3fc1-4b5d-8eaf-e6d257f1cdd2": {
+      "ProjectGuid": "af88bd13-3fc1-4b5d-8eaf-e6d257f1cdd2",
+      "DisplayName": "Utis.EmployeeTest.WorkerAPI",
+      "ColorIndex": 2
+    },
+    "eb9b3cfb-0e61-48f7-944d-8d03ff4f3186": {
+      "ProjectGuid": "eb9b3cfb-0e61-48f7-944d-8d03ff4f3186",
+      "DisplayName": "Utis.EmployeeTest.GrpcClientProto",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

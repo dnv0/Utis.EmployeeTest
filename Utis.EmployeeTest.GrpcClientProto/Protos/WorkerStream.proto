@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "Utis.EmployeeTest.GrpcClientProto";
+
+service WorkerApi {
+  
+  rpc GetAll (Empty) returns (WorkerList);
+  rpc Get (WorkerRequestId) returns (WorkerMessage);
+  rpc Insert (WorkerMessage) returns (WorkerMessage);
+  rpc Update (WorkerMessage) returns (WorkerMessage);
+  rpc Remove (WorkerMessage) returns (Empty);
+}
+
+message Empty {}
+
+message WorkerMessage{
+	string id = 1;
+	string surname = 2;
+	string name = 3;
+	string patronym = 4;
+	google.protobuf.Timestamp birthdate = 5;
+	Sex sex = 6;
+	bool haschildren = 7;
+}
+
+message WorkerList {
+  repeated WorkerMessage workers = 1;
+}
+
+message WorkerRequestId{
+	string id = 1;
+}
+
+enum Sex{
+	Unknown = 0;
+	Male = 1;
+	Demale = 2;
+}

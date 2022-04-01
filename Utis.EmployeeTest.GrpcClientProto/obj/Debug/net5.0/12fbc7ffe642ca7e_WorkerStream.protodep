@@ -1,0 +1,3 @@
+obj\Debug\net5.0\Protos/WorkerStream.cs \
+obj\Debug\net5.0\Protos/WorkerStreamGrpc.cs: C:/Users/YouTh/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/WorkerStream.proto
